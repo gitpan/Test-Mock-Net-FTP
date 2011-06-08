@@ -22,9 +22,10 @@ no_index:
     - t
     - xt
 requires:
+  File::Path: 2.07
   File::Slurp: 0
   perl: 5.8.0
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/tsucchi/Test-Mock-Net-FTP
-version: 0.01
+version: 0.02
